@@ -6,14 +6,12 @@ A personal curation of high-quality learning resources across technology, produc
 
 This is an open repository of books, articles, podcasts, videos, and papers that have shaped my thinking. Each recommendation includes why I found it valuable.
 
-**GitHub**: (link to be added)
-
 ## Categories
 
-- [[Books]] - Foundational reads across domains
-- [[Articles]] - Curated articles by topic
-- [[Podcasts]] - Best podcast episodes
-- [[Videos]] - Conference talks and presentations
+- [Books](Books.md) - Foundational reads across domains
+- [Articles](Articles.md) - Curated articles by topic
+- [Podcasts](Podcasts.md) - Best podcast episodes
+- [Videos](Videos.md) - Conference talks and presentations
 - (future) Papers
 
 ## Selection Criteria

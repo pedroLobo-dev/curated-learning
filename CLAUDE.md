@@ -8,7 +8,7 @@ This is a content repository containing curated learning resources—not a softw
 
 ## Structure
 
-- `Curated Learning.md` - Main index with category links and status table
+- `README.md` - Main index with category links and status table
 - `Books.md` - Book recommendations organized by domain
 - `Articles.md` - Curated articles with highlight counts
 - `Podcasts.md` - Podcast episodes with highlight counts
@@ -25,4 +25,4 @@ Resources follow this pattern:
 - Maintain consistent markdown formatting across files
 - Include the highlight count in parentheses for articles and podcasts
 - Update the status table in `Curated Learning.md` when adding resources
-- Use Obsidian-style wiki links (`[[Category]]`) for internal navigation
+- Use standard markdown links (`[Category](Category.md)`) for internal navigation
